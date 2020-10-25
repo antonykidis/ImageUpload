@@ -9,3 +9,12 @@ I've added a few tiny features to the project.
 1. I have added the image thumbnail to each book.
 2. You can click the image in the Images list. This will open the image in a blank window.
 This is a working repository. Enjoy!
+
+<strong>How to Open?</strong>
+1. Download, or clone the project using gitBash, powershell, or a simple Zip File
+2. Navigate to ImageUpload Folder.
+3. Open ImageUpload.sln (You will need aVisual studio 2019) The community version is avaliable for free(google it)
+4. If You facing problems try to update all the Nuget Packages via NugetPackager Manager (Packages Tab)
+   Select all the packages, and click Update Button.
+   
+   Thank You.
