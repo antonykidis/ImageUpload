@@ -1,5 +1,5 @@
-<a alt="visit our youTube Channel" href="https://www.youtube.com/watch?v=QpJvqiHl1Fo"><img src="https://github.com/antonykidis/ImageUpload/blob/main/CodeAffection.png"></a><br>
-This Repository was created a s a complementary material to help finish this great tutorial:<br>
+<a alt="visit our youTube Channel" href="https://www.youtube.com/watch?v=QpJvqiHl1Fo"><img src="https://github.com/antonykidis/ImageUpload/blob/main/CodeAffection.png"></a><br> 
+This Repository was created as complementary material to help finish this great tutorial:<br>
 https://www.youtube.com/watch?v=QpJvqiHl1Fo
 All the educational material belongs to CodeAffection<a href="https://www.youtube.com/watch?v=QpJvqiHl1Fo"> Yotube channel</a>
 
