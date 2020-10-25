@@ -1,4 +1,4 @@
-# ImageUpload
+<img src="https://github.com/antonykidis/ImageUpload/blob/main/CodeAffection.png"</>
 This Repository was created a s a complementary material to help finish this great tutorial:
 https://www.youtube.com/watch?v=QpJvqiHl1Fo
 All the educational material belongs to CodeAffection Yotube channel
