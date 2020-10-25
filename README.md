@@ -14,7 +14,7 @@ This is a working repository. Enjoy!
 1. Download, or clone the project using gitBash, powershell, or a simple Zip File
 2. Navigate to ImageUpload Folder.
 3. Open ImageUpload.sln (You will need aVisual studio 2019) The community version is avaliable for free(google it)
-4. If You facing problems try to update all the Nuget Packages via NugetPackager Manager (Packages Tab)
+4. If You facing problems try to update all the Nuget Packages via NugetPackage Manager (Packages Tab)
    Select all the packages, and click Update Button.
    
    Thank You.
